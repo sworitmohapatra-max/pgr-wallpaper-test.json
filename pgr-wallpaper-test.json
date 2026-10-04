@@ -235,7 +235,7 @@
     "PLUM_24": "#000000"
   },
   "background": {
-    "url": "https://summer-tree-3c41.sworitmohapatra.workers.dev",
+    "url": "https://summer-tree-3c41.sworitmohapatra.workers.dev/background.png",
     "blur": 0.5,
     "alpha": 0.25,
     "size": "cover",
