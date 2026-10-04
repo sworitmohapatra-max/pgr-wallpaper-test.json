@@ -1,9 +1,9 @@
 {
-  "name": "AMOLED anime theme",
-  "description": "AMOLED Rem theme with dynamic cycling background",
+  "name": "AMOLED PGR",
+  "description": "AMOLED with dynamic cycling background",
   "authors": [
     {
-      "name": "wiwiichan",
+      "name": "Sworit",
       "id": "725075745671479296"
     }
   ],
@@ -235,7 +235,7 @@
     "PLUM_24": "#000000"
   },
   "background": {
-    "url": "https://api.randomizer.rl404.com/user/Sworit/image.jpg",
+    "url": "https://summer-tree-3c41.sworitmohapatra.workers.dev",
     "blur": 0.5,
     "alpha": 0.25,
     "size": "cover",
